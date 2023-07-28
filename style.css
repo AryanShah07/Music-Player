@@ -9,7 +9,7 @@ h1 {
     font-size: 40px;
   }
 body {
-background-image: url('/Users/aryan/Desktop/Projects/Music Player/background.jpg');
+background-image: url('background.jpg');
 background-size: cover;
 /*linear-gradient(
 0deg,
